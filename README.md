@@ -1,16 +1,43 @@
-# finance_tracker_app
+# 📊 Finance Tracker App
 
-A new Flutter project.
+A **Flutter-based expense tracker** designed for college students to manage daily expenses efficiently. This app provides a **weekly expense summary**, supports **adding and deleting expenses**, and works **offline using a local database**.
 
-## Getting Started
+## ✨ Features
+✅ **Add & delete expenses** with ease  
+✅ **Weekly summary** with a bar graph  
+✅ **Persistent storage** (local database) for offline access  
+✅ **Clean & responsive UI** built with Flutter  
+✅ **State management** using Provider  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Installation
+```bash
+# Clone the repository
+git clone https://github.com/BaibhabKarmakar/finance_tracker_app.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Navigate to the project directory
+cd finance_tracker_app
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Install dependencies
+flutter pub get
+
+# Run the app
+flutter run
+```
+
+## 🛠️ Tech Stack
+- **Flutter** (Dart)
+- **Provider** for state management
+- **Local Database** (Hive or SharedPreferences)
+- **Material UI Components**
+
+## 📬 Contact
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/karmakarbaibhab/)** if you have any questions or suggestions!  
+
+---
+
+📌 **Don't forget to ⭐ the repo if you find it useful!** 🚀
+## 🔖 Tags  
+`#Flutter` `#FinanceTracker` `#ExpenseManager` `#Dart` `#MobileApp` `#Provider` `#BudgetApp` `#MoneyTracking`
+
+
